@@ -47,7 +47,7 @@ Azure provides built-in tools to enforce RBAC policies and track access control 
 - Azure Monitor & Microsoft Defender for Cloud
 Monitor role assignments and detect anomalies.
 
--Azure Policy Enforcement
+- Azure Policy Enforcement
 Ensure role assignments comply with security policies and governance frameworks.
 
 - Automated Role Lifecycle Management
@@ -68,6 +68,6 @@ By implementing Azure RBAC effectively, organizations can secure their cloud res
 
 
 
-**🔎 Why RBAC is Important for Cybersecurity Analysts**
+## **🔎 Why RBAC is Important for Cybersecurity Analysts**
 
 For cybersecurity analysts, RBAC is essential in mitigating insider threats, reducing attack surfaces, and ensuring compliance with industry regulations such as GDPR, HIPAA, and NIST. Analysts must understand RBAC to conduct security audits, enforce least privilege principles, and respond to access-related incidents effectively. Monitoring RBAC assignments and role changes can help identify potential security risks before they lead to breaches, making RBAC a crucial skill in cloud security operations.
