@@ -1,9 +1,8 @@
-#🔐 Role-Based Access Control (RBAC) in Azure
-
+**🔐 Role-Based Access Control (RBAC) in Azure**
 
 ## 📌 Why RBAC is Critical for Secure Cloud Management
 
-Managing access in cloud environments is crucial to protecting sensitive data, preventing unauthorized access, and ensuring compliance with security policies. RBAC enables organizations to define precise access control policies, enforcing the principle of least privilege and reducing security risks. According to ([Strata](https://www.strata.io/glossary/rbac-role-based-access-control/)), RBAC ensures users and services only have permissions required for their roles, improving security and operational efficiency.
+Managing access in cloud environments is crucial to protecting sensitive data, preventing unauthorized access, and ensuring compliance with security policies. RBAC enables organizations to define precise access control policies, enforcing the principle of least privilege and reducing security risks. According to [Strata](https://www.strata.io/glossary/rbac-role-based-access-control/), RBAC ensures users and services only have permissions required for their roles, improving security and operational efficiency.
 
 ## ☁️ Implementing Azure RBAC
 
