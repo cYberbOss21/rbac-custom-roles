@@ -1,4 +1,5 @@
-**🔐 Role-Based Access Control (RBAC) in Azure**
+# 🔐 Role-Based Access Control (RBAC) in Azure
+
 
 ## 📌 Why RBAC is Critical for Secure Cloud Management
 
@@ -64,6 +65,7 @@ This guide is designed for:
 🔐 Security Teams ensuring compliance, auditability, and risk mitigation.
 
 By implementing Azure RBAC effectively, organizations can secure their cloud resources, streamline access management, and ensure compliance with security best practices.
+
 
 
 **🔎 Why RBAC is Important for Cybersecurity Analysts**
